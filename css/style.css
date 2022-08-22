@@ -9,7 +9,7 @@
 
 body {
     font-size: 100%;
-    background-image: url(/images/teste.png);
+    background-image: url(../images/teste.png);
     background-repeat: no-repeat;
 }
 
@@ -132,7 +132,7 @@ h3 {
     align-items: center;
     justify-content: center;
     margin-top: 150px;
-    background-image: url(/images/footer.png);
+    background-image: url(../images/footer.png);
     background-size: auto;
 }
 
@@ -154,7 +154,7 @@ h3 {
 }
 
 .button-nintendo {
-    background-image: url(/images/button-switch.png);
+    background-image: url(../images/button-switch.png);
     background-size: auto;
     background-repeat: no-repeat;
     background-position: center;
@@ -165,7 +165,7 @@ h3 {
 }
 
 .button-apple {
-    background-image: url(/images/app-store.png);
+    background-image: url(../images/app-store.png);
     background-repeat: no-repeat;
     background-size: auto;
     background-position: center;
@@ -176,7 +176,7 @@ h3 {
 }
 
 .button-google {
-    background-image: url(/images/google-play.png);
+    background-image: url(../images/google-play.png);
     background-repeat: no-repeat;
     background-size: auto;
     background-position: center;
